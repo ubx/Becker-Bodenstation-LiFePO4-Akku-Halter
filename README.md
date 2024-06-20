@@ -1,5 +1,5 @@
 # Becker Bodenstation LiFePO4 Akku-Halter
-Replacement of the PB accu with a LiFePO4 accu holder for the portable VHF stations GK615-XX.
+Replacement of the PB accu with a LiFePO4 accu for the portable VHF stations GK615-XX.
 
 <img src="img/20240620_115400.jpg">
 <img src="img/20240620_115417.jpg">
